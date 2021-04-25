@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nodebotanist/zoom-video-sdk-webinar/issues"
   },
-  "homepage": "https://github.com/nodebotanist/zoom-video-sdk-webinar#readme"
+  "homepage": "https://github.com/nodebotanist/zoom-video-sdk-webinar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
